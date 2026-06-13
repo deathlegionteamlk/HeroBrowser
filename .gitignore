@@ -1,0 +1,9 @@
+build/
+*.o
+*.d
+moc_*
+*.a
+*.so
+HeroBrowser
+.gclient
+.gclient_entries
